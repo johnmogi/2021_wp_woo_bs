@@ -1,0 +1,14 @@
+/* 
+Theme Name:		 twentytwentyone child
+Theme URI:		 http://childtheme-generator.com/
+Description:	 twentytwentyone child is a child theme of twentytwentyone, created by ChildTheme-Generator.com
+Author:			 John Mogi
+Author URI:		 http://childtheme-generator.com/
+Template:		 twentytwentyone
+Version:		 1.0.0
+Text Domain:	 twentytwentyone-child
+*/
+
+#logo img{
+    max-width: 100px;
+}
